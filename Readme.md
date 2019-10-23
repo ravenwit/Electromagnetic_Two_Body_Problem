@@ -2,7 +2,7 @@
 
 This work was submitted by the team "Zeichner" for the required project of Computational Physics-I (PHY439)
 
-### **_Abstract_**
+
 
 _A system of two point charged particles, is considered. Each particle inter- acts with the electromagnetic field originated from the other particle accord- ing to Maxwell’s theory for electrodynamics and thus gets accelerated due to Lorentz force acting upon them.
 We approach the problem with special relativistic rigor and apply to classical (as distinguished from quantum mechanics) electrodynamics ending up with Lienard-Wiechert potentials.
@@ -13,6 +13,13 @@ Investigating the numerical results from the proposed model, we first find some 
 
 ![main pdf](main.png)
 ![abstract pdf](abstract.png)
+
+
+
+### **Team Members**:
+Shakir Ahmed                (s.ahmed7733@gmail.com) (shakir.ahmed@student.sust.edu)
+Mahiyath Karim Chowdhury    (mahiyath.hiya.18@gmail.com)
+
 
 
 All the codes are written by **Shakir Ahmed**
